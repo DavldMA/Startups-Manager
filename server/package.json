@@ -1,0 +1,35 @@
+{
+  "name": "davidanastacio",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000D\u0000a\u0000v\u0000i\u0000d\u0000A\u0000n\u0000a\u0000s\u0000t\u0000a\u0000c\u0000i\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "@fastify/jwt": "^8.0.0",
+    "bcrypt": "^5.1.1",
+    "cookie-session": "^2.1.0",
+    "fastify": "^4.26.2",
+    "fastify-cookie": "^5.7.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.2",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@fastify/cookie": "^9.3.1",
+    "@types/bcrypt": "^5.0.2",
+    "@types/cookie-session": "^2.0.48",
+    "@types/jsonwebtoken": "^9.0.6",
+    "@types/mysql": "^2.15.25",
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.64",
+    "typescript": "^5.3.3"
+  }
+}

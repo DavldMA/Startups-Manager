@@ -74,6 +74,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/albatrozdigital/DavidAnastacio.git](https://github.com/albatrozdigital/DavidAnastacio.git)
+Project Link: [https://github.com/DavldMA/Startups-Manager](https://github.com/DavldMA/Startups-Manager)
 
 DavldMA - My future contact~
